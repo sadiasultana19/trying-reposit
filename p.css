@@ -1,0 +1,70 @@
+body {
+    font-family: 'Bona Nova', serif;
+    font-size: 20px;
+    margin: 0px; 
+        
+}
+.s1 {
+    background-image: url(t2.jpg);
+    padding-left: 2%;
+    display: flex;
+    margin-bottom: 100px;
+}
+h2 {
+    font-family: 'Ubuntu', sans-serif;
+}
+.first {
+    width: 50%;
+}
+.first img {
+    width: 50%;
+}
+#h4 {
+ background-color : skyblue;
+ padding-left: 2%;
+}
+.shadow {
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px grey;
+}
+
+.link {
+    background-image: linear-gradient(aqua,blue);
+    color: white;
+    text-decoration: none;
+    padding: 10px 40px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.s2 {
+    padding-right: 2%;
+    display: flex;
+    background-image: url("blue h2.jpeg");
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.second {
+    width: 50%;
+    
+}
+.second img {
+    width: 70%;
+}
+.ex {
+    display: flex;
+    padding-left: 2%;
+  
+}
+
+.s3 {
+    width: 40%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-left: 30px;
+    padding-left: 30px;
+    box-shadow:10px 10px 20px skyblue;
+    border-radius: 20px;
+}
+footer {
+    text-align: center;
+}
